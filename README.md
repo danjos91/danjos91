@@ -82,6 +82,6 @@ A wireframe rendering project (fdf42 project) written in C.
 
 ## 🤝 Connect with Me
 
-- Telegram: @danjos91
+- Telegram: @dannyjos91
 
 
