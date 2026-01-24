@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 - 🌱 I'm continuously learning and improving my skills in software development
 - 👯 I'm open to collaborating on interesting projects
 - 💬 Ask me about Java, Python, Spring Framework, or web development
-- 📫 How to reach me: [GitHub](https://github.com/danjos91)
+- 📫 How to reach me: [Telegram][@dannyjos91](https://t.me/dannyjos91)
 - ⚡ Fun fact: I enjoy working on challenging projects like 3D visualizations and algorithmic solutions
 
 ## 🛠️ Technologies & Tools
