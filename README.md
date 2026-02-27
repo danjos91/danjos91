@@ -1,5 +1,3 @@
-# Danny (`danjos91`)
-
 Java backend developer (Spring Boot). Working with high-load, distributed systems; currently learning Go.
 
 - Interested in backend roles (Java / Go)
