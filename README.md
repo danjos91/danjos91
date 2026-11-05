@@ -19,7 +19,7 @@ Java backend developer (Spring Boot). Working with high-load, distributed system
 
 ## Background
 
-- Gazprombank — Java developer
+- Gazprombank — Team Lead Java developer
 - Education: Ecole 42, School 21 (Sber), Yandex Java course, Udemy
 - Laboratory Assistant — Aircraft Motion Control Laboratory, Peoples' Friendship University of Russia
 
